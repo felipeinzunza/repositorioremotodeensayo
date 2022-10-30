@@ -1,2 +1,3 @@
 EJEMPLOGIT2
 Hola mundo
+ejemplo para git clone
