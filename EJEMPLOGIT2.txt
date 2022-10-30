@@ -1,3 +1,4 @@
 EJEMPLOGIT2
 Hola mundo
 ejemplo para git clone
+ejemplo para git clone sin editor de texto
