@@ -3,5 +3,9 @@ Hola mundo
 ejemplo para git clone
 ejemplo para git clone sin editor de texto
 ejemplo de mezclado
+<<<<<<< HEAD
 
 ejemplo de conflicto 2
+=======
+ejemplo de conflicto
+>>>>>>> aa986773109edd27e25d4a46e0a6c0663d9d3cb9
